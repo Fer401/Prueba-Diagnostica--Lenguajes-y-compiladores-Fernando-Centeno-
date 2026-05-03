@@ -1,8 +1,8 @@
 # Prueba-Diagnostica--Lenguajes-y-compiladores-Fernando-Centeno-
-**Universidad:** Universidad Nacional Experimental de Guayana (UNEG)
-**Asignatura:** Lenguajes y Compiladores
-**Profesor:** Msc. Félix Márquez
-**Estudiante:** Fernando Centeno
+## **Universidad:** Universidad Nacional Experimental de Guayana (UNEG)
+## **Asignatura:** Lenguajes y Compiladores
+## **Profesor:** Msc. Félix Márquez
+## **Estudiante:** Fernando Centeno
 
 ## Descripción del Repositorio
 Este repositorio contiene la resolución algorítmica de los tres planteamientos exigidos en la prueba diagnóstica, desarrollados íntegramente en Python 3.
