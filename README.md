@@ -1,5 +1,5 @@
 # Prueba-Diagnostica--Lenguajes-y-compiladores-Fernando-Centeno-
-## **Universidad:** Universidad Nacional Experimental de Guayana (UNEG)
+# **Universidad:** Universidad Nacional Experimental de Guayana (UNEG)
 ## **Asignatura:** Lenguajes y Compiladores
 ## **Profesor:** Msc. Félix Márquez
 ## **Estudiante:** Fernando Centeno
