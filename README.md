@@ -12,7 +12,7 @@ Cumpliendo con los lineamientos de entrega, el proyecto se divide en 4 carpetas 
 * `problema1/`: Contiene el código fuente del Analizador Léxico de expresiones aritméticas.
 * `problema2/`: Contiene el validador de cadenas bajo la Notación FEN (Forsyth-Edwards Notation).
 * `problema3/`: Contiene el script demostrativo de la Conjetura de Collatz evaluada en un intervalo [p, q].
-* `recursos/`: Contiene información adicional de la prueba Diagnostica.
+* `recursos/`: Contiene información adicional de la prueba diagnóstica.
 
 ## Instalación y Dependencias
 El código fuente fue desarrollado utilizando exclusivamente la biblioteca estándar de Python (específicamente el módulo `re`). 
