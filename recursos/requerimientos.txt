@@ -1,0 +1,6 @@
+# Archivo de dependencias para el proyecto
+# Todas las soluciones emplean la biblioteca estándar de Python 3.
+# No se requieren instalaciones de módulos externos mediante pip.
+
+# Librerías utilizadas:
+# - re (Expresiones regulares nativas).
