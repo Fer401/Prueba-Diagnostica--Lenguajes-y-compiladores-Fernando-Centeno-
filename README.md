@@ -27,5 +27,5 @@ No es necesaria la instalación de paquetes externos mediante gestores como `pip
 ## Defensa en Video
 La explicación del código fuente, demostración de ejecución y justificación de la lógica matemática se encuentra en el siguiente enlace de YouTube:
 
-https://youtu.be/gfzB3tW0Zto
+https://youtu.be/aLL2t72Ngp4
 
